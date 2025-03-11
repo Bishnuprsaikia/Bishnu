@@ -8,7 +8,7 @@ The user story is around creating and editing articles, requiring you to change 
 
 In Production, this application is deployed on AWS following this architecture. Any changes you make must work within this architecture; otherwise, once your story is released, it will not work correctly.
 
-[Architecture Diagram]((https://github.com/trilogy-group/ws-eng-conduit-ai-assessment/blob/rwa/design-and-implementation-v1/diagram.png))
+[Architecture Diagram ((https://github.com/trilogy-group/ws-eng-conduit-ai-assessment/blob/rwa/design-and-implementation-v1/diagram.png))]
 
 (Optional) You may watch this video to get an overview of the assessment: https://drive.google.com/file/d/1sVMJHExraDkgBiflrBc9MRm-rhWybRv-/view
 
